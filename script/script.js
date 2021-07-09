@@ -43,3 +43,11 @@ console.log(fruts.fill(3,0))
 girlNames.fill(3, 0, 2);
 
 console.log(girlNames);
+
+
+
+let wrongNumbers = numbers.filter(function ololo(number) {
+    return number > 2;
+})
+
+console.log(wrongNumbers);
