@@ -66,3 +66,9 @@ let newNumers = numbers.findIndex(function awqdq(number) {
 })
 
 console.log(newNumers);
+
+
+
+let string = 'она пришла одна';
+
+console.log(string.toUpperCase());
