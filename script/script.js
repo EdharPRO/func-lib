@@ -78,3 +78,9 @@ console.log(string.toUpperCase());
 let shortString = 'ЗАКОНЧИЛАСЬ ВЕСНА';
 
 console.log(shortString.toLowerCase());
+
+
+
+let revFruts = fruts.reverse();
+
+console.log(revFruts);
