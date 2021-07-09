@@ -1,0 +1,11 @@
+.intro__buttons-two{
+    background: #074f66;
+    border: 1px solid #074f66;
+    color: #fff;
+    font-weight: 600;
+    text-transform: uppercase;
+
+    margin-right: 15px;
+    font-size: 18px;
+    padding: 8px 30px;
+}
