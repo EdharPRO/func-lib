@@ -72,3 +72,9 @@ console.log(newNumers);
 let string = 'она пришла одна';
 
 console.log(string.toUpperCase());
+
+
+
+let shortString = 'ЗАКОНЧИЛАСЬ ВЕСНА';
+
+console.log(shortString.toLowerCase());
