@@ -59,3 +59,10 @@ let result = users.find(function olos(item) {
 });
 
 console.log(result.name)
+
+
+let newNumers = numbers.findIndex(function awqdq(number) {
+    return number == 1
+})
+
+console.log(newNumers);
