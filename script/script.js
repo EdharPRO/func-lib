@@ -10,7 +10,6 @@ let users = [
     {id: 3, name: "Маша"}
 ];
 
-
 girlNames.forEach(function olo(name) {
     console.log(name)
 });
