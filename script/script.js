@@ -36,3 +36,10 @@ let oldThings = things.map(function somename(thing) {
 })
 
 console.log(oldThings);
+
+
+console.log(fruts.fill(3,0))
+
+girlNames.fill(3, 0, 2);
+
+console.log(girlNames);
