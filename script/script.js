@@ -28,3 +28,11 @@ function callBackss(arr, index, hello) {
 }
 
 forEach(students, callBackss);
+
+
+
+let oldThings = things.map(function somename(thing) {
+    return thing
+})
+
+console.log(oldThings);
