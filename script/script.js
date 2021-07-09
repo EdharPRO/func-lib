@@ -51,3 +51,11 @@ let wrongNumbers = numbers.filter(function ololo(number) {
 })
 
 console.log(wrongNumbers);
+
+
+
+let result = users.find(function olos(item) {
+    return item.id == 3;
+});
+
+console.log(result.name)
